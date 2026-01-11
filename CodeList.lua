@@ -3,5 +3,6 @@ return {
     "70KLIKES",
     "60KLIKES",
     "moduloChapter17today",
+    "SHRINEDOMAIN1",
     }
 }
