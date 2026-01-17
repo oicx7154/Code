@@ -1,8 +1,8 @@
 return {
     Code = {
     "70KLIKES",
-    "60KLIKES",
+    "80KLIKES",
     "moduloChapter17today",
-    "SHRINEDOMAIN1",
+    "BEASTAMBER",
     }
 }
