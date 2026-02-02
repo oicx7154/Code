@@ -3,8 +3,8 @@ return {
     "200Kmembers",
     "80KLIKES",
     "INFINITE",
-    "110KLIKES⁩⁩⁩",
-    "WOW100KLIKES"
+    "WOW100KLIKES",
+    "110KLIKES"
     };
     cn= "更新了两个兑换码",
     en = "Update two codes"
