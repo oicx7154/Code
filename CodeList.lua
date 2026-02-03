@@ -1,7 +1,6 @@
 return {
     Code = {
     "200Kmembers",
-    "80KLIKES",
     "INFINITE",
     "WOW100KLIKES",
     "110KLIKES"
