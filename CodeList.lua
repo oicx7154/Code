@@ -6,6 +6,5 @@ return {
     "110KLIKES",
     "ProjectionSorcery"
     };
-    cn= "更新了两个兑换码",
-    en = "Update two codes"
+    Update= "更新了两个兑换码/Update two codes",
 }
