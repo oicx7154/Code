@@ -1,10 +1,7 @@
 return {
     Code = {
-    "200Kmembers",
-    "INFINITE",
-    "WOW100KLIKES",
-    "110KLIKES",
-    "ProjectionSorcery"
+    "VALENTINES",
+    "120KLIKES",
     };
-    Update= "更新了两个兑换码/Update two codes",
+    Update= "更新了两个兑换码,移除了三个code/Update two codes,Removed three codes/2026/2/15",
 }
