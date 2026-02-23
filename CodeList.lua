@@ -2,7 +2,7 @@ return {
     Code = {
     "130KLIKES",
     "SPLITSOUL",
-    "walls",
+    "VitalityFragment",
     };
-    Update= "更新了三个兑换码,移除了2个code\nUpdate three codes,Removed two codes\n2026/2/22",
+    Update= "更新了一个兑换码,移除了一个code\nUpdate one codes,Removed one codes\n2026/2/23",
 }
