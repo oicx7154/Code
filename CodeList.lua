@@ -1,8 +1,6 @@
 return {
     Code = {
-    "130KLIKES",
-    "SPLITSOUL",
-    "VitalityFragment",
+    "HAKARI",
     };
-    Update= "更新了一个兑换码,移除了一个code\nUpdate one codes,Removed one codes\n2026/2/23",
+    Update= "更新了1个兑换码,移除了3个code\nUpdate one codes,Removed three codes\n2026/3/8",
 }
