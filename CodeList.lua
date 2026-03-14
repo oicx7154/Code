@@ -1,8 +1,8 @@
 return {
     Code = {
     "HAKARI",
-    "FIXES",
-    "ilovefreethings"
+    "NYOI",
+    "140KLIKES"
     };
-    Update= "更新了2个兑换码,移除了1个code\nUpdate two codes,Removed one codes\n2026/3/11",
+    Update= "更新了2个兑换码,移除了2个code\nUpdate two codes,Removed two codes\n2026/3/15",
 }
