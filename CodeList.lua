@@ -1,7 +1,7 @@
 return {
     Code = {
     "150KLIKES",
-    "RYUU",
+    "TRADING",
     };
-    Update= "更新了2个兑换码,移除了3个code\nUpdate two codes,Removed three codes\n2026/4/5",
+    Update= "更新了1个兑换码,移除了1个code\nUpdate one codes,Removed two codes\n2026/4/12",
 }
