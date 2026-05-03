@@ -2,8 +2,8 @@ return {
     Code = {
     "150KLIKES",
     "TRADING",
-    "YUTA",
+    "BLACKFLASH",
     "160KLIKES",
     };
-    Update= "更新了2个兑换码,移除了0个code\nUpdate two codes,Removed zero codes\n2026/4/30",
+    Update= "更新了1个兑换码,移除了1个code\nUpdate onew codes,Removed one codes\n2026/4/30",
 }
