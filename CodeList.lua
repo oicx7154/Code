@@ -1,8 +1,7 @@
 return {
     Code = {
-    "250KMEMBERS",
-    "170KLIKES",
-    "BLOODDOMAIN",
+    "LOTSOFBUGFIXES",
+    "190KLIKES",
     };
-    Update= "更新了3个兑换码,移除4个code\n可能有些无效了\n日期:2026/6/14",
+    Update= "更新了2个兑换码\n移除3个code\n可能有些无效了\n日期:2026/7/22",
 }
